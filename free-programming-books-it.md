@@ -20,6 +20,7 @@
 * [PHP](#php)
 * [Python](#python)
 * [Ruby](#ruby)
+* [TypeScript](#typescript)
 * [Visual Basic](#visual-basic)
 
 
@@ -138,6 +139,10 @@
 * [Programmazione elementare in Ruby](http://minimalprocedure.pragmas.org/writings/programmazione_elementare_ruby/corso_elementare_ruby.html)
 * [Ruby User Guide](http://ruby-it.org/rug_it.zip)
 
+
+### TypeScript
+
+* [The Concise TypeScript Book](https://gibbok.github.io/typescript-book/it-it/) - Simone Poggiali (HTML)
 
 ### Visual Basic
 
