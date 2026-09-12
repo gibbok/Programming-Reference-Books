@@ -142,7 +142,7 @@
 
 ### TypeScript
 
-* [The Concise TypeScript Book](https://gibbok.github.io/typescript-book/it-it/) - Simone Poggiali (HTML)
+* [The Concise TypeScript Book](https://gibbok.github.io/typescript-book/it-it/) - The Concise TypeScript Book offre una panoramica completa e concisa delle funzionalità di TypeScript - Simone Poggiali (HTML, PDF, EPUB)
 
 ### Visual Basic
 
